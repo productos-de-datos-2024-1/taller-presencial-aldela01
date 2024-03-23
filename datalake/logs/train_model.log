@@ -1,0 +1,2 @@
+
+2024-03-23 11:11:44,903:INFO:Model training completed with parameters: Namespace(max_features=7, cv=5, max_neighbors=10) and metrics: MSE: 80769751787.25415, MAE: 175925.66225012153, R2: 0.5014841417440289

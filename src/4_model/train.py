@@ -241,5 +241,7 @@ def main():
     mse, mae, r2 = compute_metrics(y_test_true, y_test_pred)
     report_metrics(best_model, mse, mae, r2)
 
+    logging.info(f'Model training completed with parameters: {args} and metrics: MSE: {mse}, MAE: {mae}, R2: {r2}')
+
 if __name__ == '__main__':
     main()
