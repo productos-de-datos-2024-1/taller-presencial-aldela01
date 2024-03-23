@@ -5,7 +5,14 @@ import logging
 import os.path
 import sqlite3
 
+import warnings
 import pkg_resources
+
+#Ignore warnings
+warnings.filterwarnings("ignore",category=DeprecationWarning)
+
+
+
 
 # Load SQL script
 CONFIG_FILE = 'config.json'
