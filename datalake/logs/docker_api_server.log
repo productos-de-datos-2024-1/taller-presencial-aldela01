@@ -1,0 +1,22 @@
+2024-04-06 15:31:21,421:INFO:Starting API server
+2024-04-06 15:31:21,466:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000
+2024-04-06 15:31:21,466:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 15:31:21,470:INFO: * Restarting with stat
+2024-04-06 15:31:22,291:INFO:Starting API server
+2024-04-06 15:31:22,296:WARNING: * Debugger is active!
+2024-04-06 15:31:22,311:INFO: * Debugger PIN: 855-622-919
+2024-04-06 15:31:54,670:INFO:Finishing API server
+2024-04-06 15:31:54,886:INFO:Finishing API server
+2024-04-06 15:51:58,185:INFO:Starting API server
+2024-04-06 15:51:58,213:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000
+2024-04-06 15:51:58,214:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 15:51:58,216:INFO: * Restarting with stat
+2024-04-06 15:51:58,852:INFO:Starting API server
+2024-04-06 15:51:58,857:WARNING: * Debugger is active!
+2024-04-06 15:51:58,861:INFO: * Debugger PIN: 322-736-646

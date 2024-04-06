@@ -1,0 +1,7 @@
+{
+    "logs_dir": "datalake/logs",
+    "api_server_log": "api_server.log",
+    "api_server_url": "http://127.0.0.1:5001",
+    "models_dir": "datalake/models/",
+    "house_prices_model": "house_prices_model.pkl"
+}

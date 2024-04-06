@@ -1,0 +1,51 @@
+2024-04-06 07:32:30,566:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:32:30,566:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:32:30,569:INFO: * Restarting with stat
+2024-04-06 07:32:31,863:WARNING: * Debugger is active!
+2024-04-06 07:32:31,870:INFO: * Debugger PIN: 494-684-419
+2024-04-06 07:33:10,873:INFO:127.0.0.1 - - [06/Apr/2024 07:33:10] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:33:11,065:INFO:127.0.0.1 - - [06/Apr/2024 07:33:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:39:12,733:INFO:127.0.0.1 - - [06/Apr/2024 07:39:12] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:39:36,425:INFO:127.0.0.1 - - [06/Apr/2024 07:39:36] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:41:20,917:INFO:127.0.0.1 - - [06/Apr/2024 07:41:20] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:51:30,839:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:51:30,839:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:51:30,844:INFO: * Restarting with stat
+2024-04-06 07:51:32,062:WARNING: * Debugger is active!
+2024-04-06 07:51:32,067:INFO: * Debugger PIN: 494-684-419
+2024-04-06 07:54:59,160:INFO: * Detected change in 'C:\\Users\\dinue\\Documents\\Prod_Datos\\taller-presencial-aldela01\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:54:59,281:INFO: * Restarting with stat
+2024-04-06 07:55:00,440:WARNING: * Debugger is active!
+2024-04-06 07:55:00,444:INFO: * Debugger PIN: 494-684-419
+2024-04-06 07:57:11,397:INFO:127.0.0.1 - - [06/Apr/2024 07:57:11] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 08:01:16,316:INFO:127.0.0.1 - - [06/Apr/2024 08:01:16] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:02:38,640:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:44,816:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:02:44,818:INFO:127.0.0.1 - - [06/Apr/2024 08:02:44] "POST / HTTP/1.1" 200 -
+2024-04-06 08:04:01,248:INFO: * Detected change in 'C:\\Users\\dinue\\Documents\\Prod_Datos\\taller-presencial-aldela01\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:04:01,678:INFO: * Restarting with stat
+2024-04-06 08:04:03,705:WARNING: * Debugger is active!
+2024-04-06 08:04:03,717:INFO: * Debugger PIN: 494-684-419
+2024-04-06 08:17:53,112:INFO: * Detected change in 'C:\\Users\\dinue\\Documents\\Prod_Datos\\taller-presencial-aldela01\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:17:53,511:INFO: * Restarting with stat
+2024-04-06 08:17:55,202:WARNING: * Debugger is active!
+2024-04-06 08:17:55,210:INFO: * Debugger PIN: 494-684-419
+2024-04-06 08:21:25,635:INFO: * Detected change in 'C:\\Users\\dinue\\Documents\\Prod_Datos\\taller-presencial-aldela01\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:25,851:INFO: * Restarting with stat
+2024-04-06 08:21:27,489:WARNING: * Debugger is active!
+2024-04-06 08:21:27,495:INFO: * Debugger PIN: 494-684-419
+2024-04-06 08:21:28,354:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:21:30,513:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:21:30,515:INFO:127.0.0.1 - - [06/Apr/2024 08:21:30] "POST / HTTP/1.1" 200 -
+2024-04-06 09:16:16,798:INFO:127.0.0.1 - - [06/Apr/2024 09:16:16] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:17:33,558:INFO:User values: {'bedrooms': [4], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:17:33,619:INFO:Prediction: [86968.64456904]
+2024-04-06 09:17:33,623:INFO:127.0.0.1 - - [06/Apr/2024 09:17:33] "POST / HTTP/1.1" 200 -
+2024-04-06 09:17:39,455:INFO:User values: {'bedrooms': [4], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:17:39,458:INFO:Prediction: [86968.64456904]
+2024-04-06 09:17:39,460:INFO:127.0.0.1 - - [06/Apr/2024 09:17:39] "POST / HTTP/1.1" 200 -
+2024-04-06 09:17:43,447:INFO:User values: {'bedrooms': [2], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:17:43,453:INFO:Prediction: [224731.16131129]
+2024-04-06 09:17:43,453:INFO:127.0.0.1 - - [06/Apr/2024 09:17:43] "POST / HTTP/1.1" 200 -
