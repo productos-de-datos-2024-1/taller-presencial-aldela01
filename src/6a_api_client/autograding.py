@@ -4,7 +4,7 @@ import os
 
 # test code files
 assert os.path.exists("src/6a_api_client/config.json")
-assert os.path.exists("src/6a_api_client/server.py")
+assert os.path.exists("src/6a_api_client/app.py")
 
 
 # test run
