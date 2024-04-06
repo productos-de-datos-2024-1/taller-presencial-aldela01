@@ -20,3 +20,49 @@
 2024-04-06 15:51:58,852:INFO:Starting API server
 2024-04-06 15:51:58,857:WARNING: * Debugger is active!
 2024-04-06 15:51:58,861:INFO: * Debugger PIN: 322-736-646
+2024-04-06 17:03:54,904:INFO:Finishing API server
+2024-04-06 17:03:55,213:INFO:Finishing API server
+2024-04-06 17:05:04,733:INFO:Starting API server
+2024-04-06 17:05:04,751:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000
+2024-04-06 17:05:04,752:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 17:05:04,753:INFO: * Restarting with stat
+2024-04-06 17:05:05,334:INFO:Starting API server
+2024-04-06 17:05:05,336:WARNING: * Debugger is active!
+2024-04-06 17:05:05,338:INFO: * Debugger PIN: 124-406-864
+2024-04-06 20:03:21,105:INFO:Starting API server
+2024-04-06 20:03:21,130:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000
+2024-04-06 20:03:21,131:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 20:03:21,133:INFO: * Restarting with stat
+2024-04-06 20:03:22,317:INFO:Starting API server
+2024-04-06 20:03:22,324:WARNING: * Debugger is active!
+2024-04-06 20:03:22,330:INFO: * Debugger PIN: 113-493-712
+2024-04-06 20:03:23,745:INFO:Finishing API server
+2024-04-06 20:03:23,860:INFO:Finishing API server
+2024-04-06 20:09:53,968:INFO:Starting API server
+2024-04-06 20:09:53,986:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.3:5000
+2024-04-06 20:09:53,987:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 20:09:53,988:INFO: * Restarting with stat
+2024-04-06 20:09:54,505:INFO:Starting API server
+2024-04-06 20:09:54,508:WARNING: * Debugger is active!
+2024-04-06 20:09:54,510:INFO: * Debugger PIN: 887-948-125
+2024-04-06 20:09:57,170:INFO:----------------------------------------
+2024-04-06 20:09:57,171:INFO:User values: {'bedrooms': [2], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 20:09:59,450:INFO:Prediction: [224731.16131129]
+2024-04-06 20:09:59,452:INFO:172.20.0.2 - - [06/Apr/2024 20:09:59] "POST / HTTP/1.1" 200 -
+2024-04-06 20:10:04,316:INFO:----------------------------------------
+2024-04-06 20:10:04,316:INFO:User values: {'bedrooms': [4], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 20:10:04,325:INFO:Prediction: [86968.64456904]
+2024-04-06 20:10:04,326:INFO:172.20.0.2 - - [06/Apr/2024 20:10:04] "POST / HTTP/1.1" 200 -
+2024-04-06 20:10:08,139:INFO:----------------------------------------
+2024-04-06 20:10:08,140:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [5]}
+2024-04-06 20:10:08,149:INFO:Prediction: [317252.91240268]
+2024-04-06 20:10:08,150:INFO:172.20.0.2 - - [06/Apr/2024 20:10:08] "POST / HTTP/1.1" 200 -

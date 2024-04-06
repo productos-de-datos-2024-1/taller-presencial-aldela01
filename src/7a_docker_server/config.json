@@ -4,4 +4,3 @@
     "models_dir": "/datalake/models/",
     "house_prices_model": "house_prices_model.pkl"
 }
-

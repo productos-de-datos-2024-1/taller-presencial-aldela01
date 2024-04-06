@@ -19,7 +19,7 @@
 #
 # Para lanzar la aplicación web que consume el servicio se ejecuta:
 #
-# $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v C:/Users/dinue/Documents/Prod_Datos/taller-presencial-aldela01/datalake:/datalake aldela9925/api-client:0.1
+# $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "$PWD"/datalake:/datalake jdvelasq/api-client:0.1
 #
 
 # Definición de la imagen base
